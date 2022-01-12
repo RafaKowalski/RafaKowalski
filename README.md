@@ -2,7 +2,7 @@
 
 Estou interessado em me tornar um desenvolvedor
 
-Atualmente estudando Python
+Atualmente estudando Python e C#
 
 E-mail para contato: Rafaelmk06@gmail.com
 
