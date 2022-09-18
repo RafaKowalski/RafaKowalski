@@ -1,6 +1,6 @@
 ## Olá, me chamo Rafael Kowakski
 
-<h2>Desenvolvedor na empresa WorkDB</h2>
+<h4>Desenvolvedor na empresa WorkDB</h4>
 
 Atualmente estudando C# | .NET | ASP.NET | MVC | Back End
 
