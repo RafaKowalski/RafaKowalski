@@ -1,8 +1,8 @@
-## Olá, me chamo Rafael Kowakski
+<h1> Olá, me chamo Rafael Kowakski</h1>
 
-<h5>Desenvolvedor na empresa WorkDB</h5>
+<h3>Desenvolvedor na empresa WorkDB</h3>
 
-Atualmente estudando C# | .NET | ASP.NET | MVC | Back End
+<h5>Atualmente estudando C# | .NET | ASP.NET | MVC | Back End</h4>
 
 ##
 
