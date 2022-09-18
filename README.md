@@ -1,6 +1,6 @@
 ## Olá, me chamo Rafael Kowakski
 
-Estou interessado em me tornar um desenvolvedor
+<h2>Desenvolvedor na empresa WorkDB</h2>
 
 Atualmente estudando C# | .NET | ASP.NET | MVC | Back End
 
