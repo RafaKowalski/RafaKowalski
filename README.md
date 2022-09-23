@@ -2,7 +2,7 @@
 
 <h3>Desenvolvedor na empresa WorkDB</h3>
 
-<h5>Atualmente estudando C# | .NET | ASP.NET | MVC | Back End</h4>
+<h5>Atualmente estudando C# | .NET | ASP.NET | MVC | API | Back End</h4>
 
 ##
 
