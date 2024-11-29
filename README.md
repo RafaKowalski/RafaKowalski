@@ -1,6 +1,6 @@
 <h1> Olá, me chamo Rafael Kowakski</h1>
 
-<h5>Atualmente estudando C# | .NET | ASP.NET | MVC | API | Back End e Angular</h5>
+<h5>Desenvolvedor Full stack | .NET | ASP.NET | MVC | API | Angular</h5>
 
 ##
 
